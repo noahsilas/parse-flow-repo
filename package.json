@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "parse": "^2.11.0"
+    "parse": "^2.19.0"
   },
   "devDependencies": {
     "flow-bin": "^0.120.1"
